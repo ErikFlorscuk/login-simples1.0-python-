@@ -22,8 +22,8 @@ while True:
     
     elif event == 'Entrar':
 
-        senha_correta = '1234'
-        usuario_correto = 'Erik'
+        senha_correta = '1234', '1234'
+        usuario_correto = 'Erik', 'Ana Beatriz'
         usuario = values['usuario']
         senha = values['senha']
 
